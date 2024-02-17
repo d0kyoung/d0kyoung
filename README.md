@@ -44,7 +44,6 @@ Here are some ideas to get you started:
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=d0kyoung&bg_color=180,ffffff,00000000&title_color=71a300&text_color=507500"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d0kyoung&layout=compact&bg_color=180,ffffff,00000000&title_color=304700&text_color=507500"
-           /> </div> 
+         />  </div> 
     </div>
     
